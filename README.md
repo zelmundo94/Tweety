@@ -1,6 +1,6 @@
-# Project 4 - *Twitter*
+# Project 4 - *Tweety*
 
-**Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
+**Tweety** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
 Time spent: **10** hours spent in total
 
@@ -62,7 +62,7 @@ Describe any challenges encountered while building the app.
 
 
 
-#Project 5 - *Twitter (Part 2)*
+#Project 5 - *Tweety (Part 2)*
 
 Time spent: **10** hours spent in total
 
@@ -79,8 +79,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] When composing, you should have a countdown in the upper right for the tweet limit.
-- [ ] After creating a new tweet, a user should be able to view it in the timeline immediately without refetching the timeline from the network.
+- [x] When composing, you should have a countdown in the upper right for the tweet limit.
+- [x] After creating a new tweet, a user should be able to view it in the timeline immediately without refetching the timeline from the network.
 - [ ] Profile Page
    - [ ] Implement the paging view for the user description.
    - [ ] As the paging view moves, increase the opacity of the background screen. See the actual Twitter app for this effect
